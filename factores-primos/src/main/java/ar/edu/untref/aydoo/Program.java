@@ -2,6 +2,8 @@ package ar.edu.untref.aydoo;
 
 public class Program{
 
+    String result = "Factores primos: ";
+
     public static final void main(String arg[]){
         int number = Integer.parseInt(arg[0]);
 
